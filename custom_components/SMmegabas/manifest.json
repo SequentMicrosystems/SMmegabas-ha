@@ -1,0 +1,13 @@
+{
+	"domain": "SMmegabas",
+	"name": "Sequent Microsystems Building Automation Integration",
+	"version": "1.0.0",
+	"integration_type": "device",
+	"documentation": "https://github.com/SequentMicrosystems/SMmegabas-ha",
+	"issue_tracker": "https://github.com/SequentMicrosystems/SMmegabas-ha",
+	"dependencies": [],
+	"after_dependencies": [],
+	"codeownders": ["3lv"],
+	"config_flow": false,
+	"requirements": ["SMmegabas>=1.0.0"]
+}
